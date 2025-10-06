@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on developing a **robust and scalable machine learning pipeline** to predict a person’s age from facial images. 
 The pipeline is designed with considerations for **performance optimization** and potential **edge deployment**.
-
+Please download the html in the documentation folder and view it in the browser instead of just git repo !!
 ---
 
 ## Data Preparation and Analysis
